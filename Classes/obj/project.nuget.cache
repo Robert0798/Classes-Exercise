@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3nfKU8rp7Gs=",
+  "success": true,
+  "projectFilePath": "/Users/robertanderson/Desktop/repos/Classes-Exercise/Classes/Classes.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.33/microsoft.netcore.app.host.osx-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
